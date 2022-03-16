@@ -1,4 +1,4 @@
-# project rerwier
+# project (Reviewer)
 
 
 # Project The Numerics of GANs
